@@ -1,0 +1,7 @@
+---
+outputFolder: inspire_folder_example
+collisionEnergy: 31
+experimentTitle: example
+searchEngine: peaks
+scansFolder: inspire_folder_example
+scansFormat: mgf
